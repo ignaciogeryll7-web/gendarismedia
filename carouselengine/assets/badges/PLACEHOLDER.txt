@@ -1,0 +1,2 @@
+Put the official badge files here, named google.png (or google.svg) and apple.png (or apple.svg), then delete this file.
+While this file is here the daily carousel task posts nothing.
